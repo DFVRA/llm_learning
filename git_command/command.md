@@ -3,3 +3,4 @@
 * git commit -m "注释" : 为本次提交注释
 * git remote add origin <远程仓库地址> : 将本地仓库关联到远程仓库
 * git push -u origin master : 将本地项目 push 到远程仓库 
+* git fetch origin : 拉取远程仓库的最新更改
